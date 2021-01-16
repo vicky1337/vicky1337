@@ -25,8 +25,13 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+    </tr>
+      <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -43,15 +48,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Cordova</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cordova.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
