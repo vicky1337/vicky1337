@@ -1,13 +1,13 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Vicky
 
 I ❤️ Frontend-Development
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://bharatpe.com/">Bharatpe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
   I put mostly my focus on Web Development with Javascript  <img src="https://media.giphy.com/media/obJCsu2vyICQZ5fWGt/giphy.gif" width="30" > 
 </em></p>
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
