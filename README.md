@@ -62,3 +62,6 @@ I ❤️ Frontend-Development
     </tr>
   </tbody>
 </table>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{vicky1337}/count.svg)
