@@ -2,7 +2,7 @@
 
 I ❤️ Frontend-Development
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://bharatpe.com/">Bharatpe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>Software Engineer at <a href="https://bharatpe.com/">Credgenics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
   I put mostly my focus on Web Development with Javascript  <img src="https://media.giphy.com/media/obJCsu2vyICQZ5fWGt/giphy.gif" width="30" > 
 </em></p>
 
