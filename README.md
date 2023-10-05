@@ -24,6 +24,10 @@ I ❤️ Frontend-Development
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
+       <td width="25%" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png">
+      </td>
     </tr>
       <td width="25%" align="center">
         <span>Redux</span><br><br><br>
