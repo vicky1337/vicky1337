@@ -30,7 +30,7 @@ I ❤️ Frontend-Development
       </td>
         <td width="25%" align="center">
         <span>React Native</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/reactNative.svg">
+        <img height="64px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
       </td>
     </tr>
       <td width="25%" align="center">
