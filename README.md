@@ -3,7 +3,7 @@
 I ❤️ Frontend-Development
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em> Engineering Manager at <a href="https://bharatpe.com/">Credgenics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-  I put mostly my focus on Web Development with Javascript  <img src="https://media.giphy.com/media/obJCsu2vyICQZ5fWGt/giphy.gif" width="30" > 
+  I put mostly my focus on Web and App Development   <img src="https://media.giphy.com/media/obJCsu2vyICQZ5fWGt/giphy.gif" width="30" > 
 </em></p>
 
 
@@ -27,6 +27,10 @@ I ❤️ Frontend-Development
       <td width="25%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+        <td width="25%" align="center">
+        <span>React Native</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react-native.svg">
       </td>
     </tr>
       <td width="25%" align="center">
